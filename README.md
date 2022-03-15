@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hello，我是dancvv
+
+> 干！码出一番新天地
+
+目前是一名软工研究生在读，暂居大连，毕业之后可能会前往北上广深杭这些互联网城市
+
+- 🔭 目前主要专注于后端开发，前端也了解一些
+- 🌱 最近在研究5G无人机社区用户服务，闲的时候也会写写[博客](https://firstincs.cn)，欢迎访问
+- 😄 当前小目标进大厂
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dancvv)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **dancvv/dancvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
