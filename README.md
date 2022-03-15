@@ -8,9 +8,9 @@
 - 🌱 最近在研究5G无人机社区用户服务，闲的时候也会写写[博客](https://firstincs.cn)，欢迎访问
 - 😄 当前小目标进大厂
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dancvv)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dancvv&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dancvv)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dancvv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dancvv/dancvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
