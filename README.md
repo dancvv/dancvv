@@ -6,7 +6,7 @@
 
 - 🔭 目前主要专注于后端开发，前端也了解一些
 - 🌱 最近在研究5G无人机社区用户服务，闲的时候也会写写[博客](https://firstincs.cn)，欢迎访问
-- 😄 当前小目标进大厂
+- 😄 过好每一天哦
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dancvv&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
